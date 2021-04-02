@@ -53,7 +53,6 @@ public class RegisterActivity extends AppCompatActivity {
         password = findViewById(R.id.password_input);
         email = findViewById(R.id.email_input);
         phone = findViewById(R.id.phone_input);
-
         fAuth = FirebaseAuth.getInstance();
         fStore = FirebaseFirestore.getInstance();
         progressBar = findViewById(R.id.progressBar);

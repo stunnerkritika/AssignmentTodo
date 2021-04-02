@@ -5,11 +5,22 @@
     android:layout_height="match_parent"
     tools:context=".ListTodoFragment">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
 
+        >
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/list_item_todo_rv_list_todo"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
+    </LinearLayout>
+    </ScrollView>
+    
 </FrameLayout>

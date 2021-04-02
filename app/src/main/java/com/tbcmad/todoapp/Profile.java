@@ -70,7 +70,6 @@ public class Profile extends AppCompatActivity {
                     FullName.setText(name);
                     phone.setText(Phone);
                     email.setText(Email);
-
                 }
             }
 
