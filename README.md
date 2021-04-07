@@ -45,6 +45,7 @@ Any task could be updated at any time by tapping to the list text column.
 Tasks in the application can be marked as complete using the green C button in the list.
 
 Also the completed task can be deleted using the "Delete Complete" button in the menu item.
+
 <img src="screen/completed_delete.gif" width="200" height="360">
 
 ### Delete a Task
