@@ -50,11 +50,13 @@ Also the completed task can be deleted using the "Delete Complete" button in the
 ### Delete a Task
 
 Tasks can be deleted in the application using the orange D button in the list.
+
 <img src="screen/delete_individual_task.gif" width="200" height="360">
 
 ### Logout of the application
 
 The user could logout form the system using the logout menu item in the menu bar
+
 <img src="screen/logout_application.gif" width="200" height="360">
 
 
