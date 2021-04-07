@@ -26,7 +26,7 @@ The user can log in to the system using the same email address and the password 
 
 Now when the user clicks on the link that is forwarded to their mailing address then the user will be verified to the system to use the application. The user will be forwarded the profile page which will show their top 2 tasks their information and their avatar
 
-<img src="screen/verification_mail.png" width="200" height="500">
+<img src="screen/verification_mail.PNG" width="200" height="500">
 
 <img src="screen/login_sucessful.gif" width="200" height="360">
 
