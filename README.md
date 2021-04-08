@@ -4,13 +4,16 @@ This is a Todo Mobile Application that uses Firebase to authenticate and SQLite 
 
 ## Clone
 
-Use the github [Link]() to clone the project file.
+Use the github [Link](https://github.com/stunnerkritika/AssignmentTodo.git) to clone the project file.
 
 ```bash
-git clone 
+git clone https://github.com/stunnerkritika/AssignmentTodo.git
 ```
 
 ## Using the Application
+### Splash Screen
+![splash screen](https://user-images.githubusercontent.com/47621924/114040718-9a416400-98a3-11eb-85e6-a07487a0104f.gif)
+
 
 ### Register on the application
 
